@@ -1,0 +1,14 @@
+SMAP
+buscarClienteDinamico_jsp.java
+JSP
+*S JSP
+*F
++ 0 buscarClienteDinamico.jsp
+paginas/buscarClienteDinamico.jsp
+*L
+5,14:46
+18,3:60
+20,8:63
+28,3:71,3
+31,10:80
+*E
